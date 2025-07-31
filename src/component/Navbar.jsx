@@ -30,6 +30,11 @@ const Navbar = () => {
             
         </ul>
 
+        <div className='flex items-center gap-5' >
+        <p className='text-white text-sm '>Search</p>
+        <p className='text-white text-sm'>P</p>
+        </div>
+
     </div>
   )
 }
