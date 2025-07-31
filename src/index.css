@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+
+
+a.active hr{
+    display: block;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
